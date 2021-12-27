@@ -1,0 +1,2 @@
+rootProject.name = "IMOOC_MyTestProject"
+include ':app'
